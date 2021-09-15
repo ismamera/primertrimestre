@@ -15,3 +15,5 @@ Soy Vitas y me gusta jugar Basketball. Tengo 18 años.
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
 [Arquitectura de ordenadores](https://github.com/VitasB/primertrimestre/blob/main/arqitectura%20de%20ordenadores.md)
+
+[Mecanografia]()
