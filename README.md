@@ -15,4 +15,4 @@ Soy Vitas y...
 
 [Enlace al profesor](https://github.com/d-prieto)
 
-
+https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
