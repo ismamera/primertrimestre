@@ -7,4 +7,4 @@ Aqui hablo de la mecanografia que hago.
 
 ### 15 de septembre 
 
-![]
+![](https://raw.githubusercontent.com/VitasB/primertrimestre/main/Captura%20de%20pantalla%20de%202021-09-15%2012-40-45.png)
