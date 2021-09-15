@@ -17,4 +17,4 @@ Soy Vitas y...
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
 
-[Arquitectura de ordenadores](https://github.com/VitasB/primertrimestre/blob/main/arqitectura%20de%20ordenadores%20md)
+[Arquitectura de ordenadores](https://github.com/VitasB/primertrimestre/blob/main/arqitectura%20de%20ordenadores.md)
