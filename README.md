@@ -2,12 +2,9 @@
 
 WELCOME
 
-
-How are u
-
 ## Bienvenidos
 
-Soy Vitas y... 
+Soy Vitas y me gusta jugar Basketball. Tengo 18 años. 
 
 ![](https://kratkoe.com/wp-content/uploads/2018/01/basketbol-doklad-4-klass.jpg)
 
