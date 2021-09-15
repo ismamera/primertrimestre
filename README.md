@@ -16,3 +16,5 @@ Soy Vitas y...
 [Enlace al profesor](https://github.com/d-prieto)
 
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
+
+[Arquitectura de ordenadores](https://github.com/VitasB/primertrimestre/blob/main/arqitectura%20de%20ordenadores%20md)
