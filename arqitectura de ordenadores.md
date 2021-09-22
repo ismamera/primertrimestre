@@ -23,6 +23,6 @@ what is that 0b thingy?
 
 where did you get that info? 
 
-[From this link https://www.google.com/search?channel=fs&client=ubuntu&q=How+much+is+100000+in+binary%3F]
+[From this link](https://www.google.com/search?channel=fs&client=ubuntu&q=How+much+is+100000+in+binary%3F)
 
 How much is 100010111100100111 in decimal?
