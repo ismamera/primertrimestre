@@ -27,4 +27,4 @@ where did you get that info?
 
 How much is 100010111100100111 in decimal?
 
-Link by calculator](https://www.google.com/search?channel=fs&client=ubuntu&q=How+much+is+100010111100100111+in+decimal%3F)
+[Link by calculator](https://www.google.com/search?channel=fs&client=ubuntu&q=How+much+is+100010111100100111+in+decimal%3F)
