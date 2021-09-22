@@ -2,14 +2,21 @@
 [
 Aqui estan los apuntes sobre Arquitectura de Ordenadores]
 
+## Procesador 
+
+qué es
+
+## Ram 
+
+qué es
 
 
-Sistema numérico binario: sistema numérico posicional con base 2.
 
 
 ## Binario
 
 
+Sistema numérico binario: sistema numérico posicional con base 2.
 
 ### Ejercicios de conversion
 
@@ -28,3 +35,22 @@ where did you get that info?
 How much is 100010111100100111 in decimal?
 
 [Link by calculator](https://www.google.com/search?channel=fs&client=ubuntu&q=How+much+is+100010111100100111+in+decimal%3F)
+
+
+## Vamos a construir un ordenador
+
+Se pide que montemos un ordenador por menos de 1000 €
+
+![](https://raw.githubusercontent.com/VitasB/primertrimestre/main/Captura%20de%20pantalla%20de%202021-09-22%2013-06-58.png)
+
+
+
+
+
+
+
+
+
+
+
+
